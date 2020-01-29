@@ -1,0 +1,1 @@
+/Users/616024/Documents/Development_EWD/AzureDevOpsTesting/mslearn-tailspin-spacegame-web/.sonarqube/out/0
